@@ -8,3 +8,5 @@ numpy>=1.25.0
 XlsxWriter>=3.1.2
 tqdm>=4.66.1
 dotenv
+openpyxl
+matplotlib
