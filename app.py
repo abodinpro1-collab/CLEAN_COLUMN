@@ -106,7 +106,7 @@ if uploaded_file:
     )
 
 import matplotlib.pyplot as plt
-from pywaffle import Waffle
+
 # ==============================
 # Waffle Chart par modèle canonique
 # ==============================
