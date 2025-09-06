@@ -10,3 +10,4 @@ tqdm>=4.66.1
 dotenv
 openpyxl
 matplotlib
+pywaflle
